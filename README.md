@@ -1,7 +1,7 @@
 ## Olá! Me chamo Jean Carlos
 
 
-Hoje trabalho com desenvolvimento em C# e ASP.NET <br>
+Trabalho atualmente como estagiário de desenvolvimento em C# e ASP.NET na TACTIUM BRASIL <br>
 Estou estudando desenvolvimento front-end e as tecnologias .NET e C# <br>
 Pronomes: Ele/Dele
 
