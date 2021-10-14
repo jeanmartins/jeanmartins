@@ -2,7 +2,7 @@
 
 
 Trabalho atualmente como estagiário de desenvolvimento em C# e ASP.NET na TACTIUM BRASIL <br>
-Estou estudando desenvolvimento front-end e as tecnologias .NET e C# <br>
+Estou estudando desenvolvimento front com HTML,CSS e Js, backend e as tecnologias .NET e C# <br>
 Pronomes: Ele/Dele
 
  <div>
