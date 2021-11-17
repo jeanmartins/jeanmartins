@@ -1,8 +1,7 @@
 ## Olá! Me chamo Jean Carlos
 
 
-Trabalho atualmente como desenvolvedor júnior em C# e ASP.NET na TACTIUM BRASIL <br>
-Estou estudando desenvolvimento front com HTML,CSS e Js e backend com as tecnologias .NET e C# <br>
+Desenvolvedor Júnior FullStack em C# e .NET na TACTIUM BRASIL <br>
 Pronomes: Ele/Dele
 
  <div>
