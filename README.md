@@ -1,4 +1,4 @@
-## Olá! Sou Jean Carlos Martins wave
+## Olá! Sou Jean Carlos Martins 👋
 
 
 Desenvolvedor Júnior FullStack em C# e .NET na TACTIUM BRASIL <br>
