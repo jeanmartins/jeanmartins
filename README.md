@@ -1,7 +1,7 @@
 ## Olá! Sou Jean Carlos Martins 👋
 
 
-Desenvolvedor Júnior FullStack em C# e .NET na TACTIUM BRASIL <br>
+Analista de Desenvolvimento de Sistemas no Instituto Atlântico <br>
 Pronomes: Ele/Dele
 
  <div>
