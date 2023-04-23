@@ -1,7 +1,7 @@
-## Olá! Sou Jean Carlos Martins 👋
+## Hi, I'm Jean Magalhães, welcome to my space! 👋
 
 
-Analista de Desenvolvimento de Sistemas no Instituto Atlântico <br>
+Software Developer at Instituto Atlântico <br>
 Pronomes: Ele/Dele
 
  <div>
