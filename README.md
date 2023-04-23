@@ -2,7 +2,7 @@
 
 
 Software Developer at Instituto Atlântico <br>
-Nouns: He/His
+Pronouns: He/His
 
  <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
