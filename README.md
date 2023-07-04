@@ -3,7 +3,7 @@
 
 Software Developer at Instituto Atlântico <br>
 Pronouns: He/His
-
+<!-- 
  <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/jeanmartins">
